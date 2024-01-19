@@ -5,7 +5,7 @@
         "02_herencia\\src",
         "04_igualdad_orden_copia\\src",
         "07_generics\\src",
-        "01_introduccion\\Proyecto1"
+        "01_introduccion\\introducción"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
